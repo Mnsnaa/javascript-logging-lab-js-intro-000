@@ -1,3 +1,3 @@
 console.error("HALP!")
 console.log("i would be a logger.")
-cansole.warn("Not Supported.")
+cansole.warn("i woudl be a logger.")
